@@ -1,2 +1,2 @@
 # meani
-A small MEAN stack starter using jspm
+A tiny MEAN stack starter using jspm
